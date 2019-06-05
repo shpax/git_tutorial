@@ -1,14 +1,4 @@
-function createQuestion(name, text, options, correctOption) {
-  return { 
-    text,
-    name
-    options,
-    correctOption,
-   };
+
+function createQuestion(text) {
+  return { text };
 }
-
-
-
-
-
-
