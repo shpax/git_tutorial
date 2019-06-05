@@ -3,9 +3,6 @@ function createQuestion(name, text, options, correctOption) {
     text,
     name,
     options,
-
-
-    
     correctOption,
    };
 }
